@@ -6,7 +6,7 @@ You can use [Multipass](https://multipass.run/) to create two Ubuntu VMs and the
 ## Step 1. Install Multipass
 
 ```
-sudo snp install multipass
+sudo snap install multipass
 ```
 
 ### Step 2. Create two Ubuntu VMs,
