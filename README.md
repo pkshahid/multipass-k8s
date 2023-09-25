@@ -16,7 +16,7 @@ git clone https://github.com/pkshahid/multipass-k8s.git
 ./launch.sh
 ```
 
-### Step 3. Setup Master Node,
+### Step 3. Setup Master Node.
 
 #### 3.1 SSH to Master Node VM
 
